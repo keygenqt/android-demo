@@ -5,5 +5,5 @@ Samples for articles
 
 | Project | |
 |:-----|---------|
-|  <br><b>Каррирование глазами android разработчика</b> <br><br> 28 Июля в мире андройд произошло важное событие - анонсировали [Jetpack Compose 1.0](https://android-developers.googleblog.com/2021/07/jetpack-compose-announcement.html). Вместе с этим нововведением места для ключевого слова `class` стало еще меньше. Kotlin поддерживает парадигму функционального программирования, и разработчики google умело этим пользуются. <br><br> **<a href="https://github.com/keygenqt/articles/blob/currying/docs/article.md">> Browse</a>**<br><br> | <img src="data/Screenshot_1632562455.png" width="160" alt="Jetnews sample demo"> | 
+|  <br><b>Каррирование глазами android разработчика</b> <br><br> 28 Июля в мире андройд произошло важное событие - анонсировали . Вместе с этим нововведением места для ключевого слова `class` стало еще меньше. Kotlin поддерживает парадигму функционального программирования, и разработчики google умело этим пользуются. <br><br> **<a href="https://github.com/keygenqt/articles/blob/currying/docs/article.md">> Browse</a>**<br><br> | <img src="data/Screenshot_1632562455.png" width="160" alt="Jetnews sample demo"> | 
 | | |
