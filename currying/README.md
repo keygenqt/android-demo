@@ -1,8 +1,6 @@
 Каррирование глазами android разработчика
 ---
 
-![picture](../data/vokoscreen-2021-09-25_12-40-54.gif)
-
 28 Июля в мире андройд произошло важное событие -
 анонсировали [Jetpack Compose 1.0](https://android-developers.googleblog.com/2021/07/jetpack-compose-announcement.html).
 Вместе с этим нововведением места для ключевого слова `class` стало еще меньше. Kotlin поддерживает парадигму
@@ -12,3 +10,8 @@
 практике.
 
 [**More...**](https://github.com/keygenqt/articles/blob/currying/docs/article.md)
+
+### Preview
+<p>
+<img src="../data/vokoscreen-2021-09-25_12-40-54.gif" width="32%"/>
+</p>
